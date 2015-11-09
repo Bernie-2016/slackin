@@ -1,5 +1,5 @@
 # Bernie usage
-We're using slackin to invite people to our BernieBuilders Slack channel.  [Invite people](https://organize.berniesanders.com/chat/)!
+We're using slackin to invite people to our BernieBuilders Slack channel.  [Invite people](https://organize.berniesanders.com/slack/berniebuilders)!
 
 # slackin
 
